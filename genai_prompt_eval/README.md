@@ -70,6 +70,6 @@ Evaluation: ✅ Instruction Followed, ✅ Relevance, ✅ Simplicity
 ## 📬 Contact
 
 **Satyam Raj**  
-AI Prompt Specialist | LLM Trainer  
-Email: [your email]  
-GitHub: [your GitHub link here]
+AI Prompt Specialist | LLM Trainer | Scale Ai(Outlier)
+Email: [rsatyam950@gmail.com]  
+
